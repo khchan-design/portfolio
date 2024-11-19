@@ -187,11 +187,12 @@ nav {
 /* Titles */
 
 h1 {
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Bebas Neue';
     text-transform: uppercase;
     letter-spacing: 0.1rem;
     font-size: 9rem;
     margin-top: 20px;
+    font-style: normal;
 }
 
 h2 {
