@@ -187,7 +187,8 @@ nav {
 /* Titles */
 
 h1 {
-  font-family: 'Bebas Neue';
+    font-family: "bebas-neue-pro", sans-serif;
+    font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 0.1rem;
     font-size: 9rem;
